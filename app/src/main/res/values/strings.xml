@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">1/0</string>
+
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome,</string>
+    <string name="dummy">Dummy</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="password_assurance">Re-Enter Password</string>
+    <string name="log_out">Log Out</string>
+    <string name="back_button">back_button</string>
+    <string name="logo">logo</string>
+</resources>
